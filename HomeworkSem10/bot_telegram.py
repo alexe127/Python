@@ -5,8 +5,8 @@ from task10 import start, message, cancel, couse_game
 
 
 
-bot = Bot(token= '5599679578:AAEhvBVvBmPU6KWu1kX080WmRnIxmRI7AH4')
-updater = Updater(token='5599679578:AAEhvBVvBmPU6KWu1kX080WmRnIxmRI7AH4', use_context=True)
+bot = Bot(token= '  ')
+updater = Updater(token='  ', use_context=True)
 dispatcher = updater.dispatcher
 
 
